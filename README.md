@@ -1,5 +1,5 @@
 # Blind-Assistant-System
-
+Author Harshali Patil
 The idea of this project is to assist visually impaired people in their daily activities using “Blind assistant using Computer Vision”. The project will be able to read text from images, detect objects, and also detect people around. The device would be a voice-enabled system that would direct the visually challenged person in their day-to-day work. For ease of use for blind people, voice-based input and output are added.
 
 ## User Interface
